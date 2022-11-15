@@ -1,0 +1,41 @@
+body {
+  background-color: #d55555;
+  color: rgb(255, 255, 255);
+}
+
+header {
+  font-size: 20px;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10 auto;
+}
+
+p {
+  color: white;
+  font-size: x-small;
+  font-family: "serif";
+}
+
+section {
+  margin-top: 0.01em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style: none;
+}
+
+ul {
+  box-sizing: border-box;
+  list-style: none;
+  margin: 0.5 auto;
+  padding: 0.1em;
+}
+
+ul {
+  box-sizing: border-box;
+  list-style: none;
+  margin: 0.5 auto;
+  padding: 0.1em;
+}
